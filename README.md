@@ -1,4 +1,4 @@
-### 방문해주셔서 감사합니다 :-) 👋
+### 방문해주셔서 감사합니다 :-)
 
 <!--
 **ElonMoon/ElonMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
